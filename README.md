@@ -65,6 +65,11 @@ integrados por Claude. Archivo: `dominiosminimaxhumano.php` pero en otro reposit
 3. Sube `dominiosminimaxhumano.php` a tu servidor
 4. Ajusta los dos `global $link` si tu entorno lo requiere
 
+5. ## 📸 Resultado Final
+
+### Sistema Híbrido Humano + Minimax (dominiosminimaxhumano.php)
+![Pantalla ganadora](dominios2.png)
+
 ---
 
 ## 🧪 Notas del Autor
