@@ -1,4 +1,4 @@
-![Logo de Vibe Coding México](logo.jpg)
+![Logo de Vibe Coding México](dominios1.jpg)
 # 🌐 Control de Dominios — Pruébalo Ya #X
 
 [![PHP Version](https://img.shields.io/badge/php-%3E%3D8.0-8892bf.svg)](https://www.php.net/)
