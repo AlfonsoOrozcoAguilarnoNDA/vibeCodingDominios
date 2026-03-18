@@ -32,6 +32,23 @@ sobre una base de datos existente con 6 años en producción.
 **Ganador real:** versión humana de 6 años + apariencia de Minimax,
 integrados por Claude. Archivo: `dominiosminimaxhumano.php` pero en otro repositorio.
 
+## 👤 humano.php — El Original (MIT, 2019)
+
+Archivo base con 6 años en producción. No tiene altas ni bajas
+porque nunca las necesitó — fue hecho para un propósito específico
+y lo cumple. Ninguno de los 8 LLMs evaluados lo superó en
+funcionalidad real con datos reales.
+
+La función `obtenerInfoDominioMX` y el manejo de encoding
+ISO-8859-1 son los dos detalles que ningún modelo consideró.
+
+### dominiosminimaxhumano.php — El Ganador (LGPL 2.1)
+Integración realizada por Claude Sonnet 4.6: lógica WHOIS del 
+humano.php (6 años en producción) + apariencia y CRUD de Minimax.
+Ajustes manuales: dos `global $link` y visibilidad de botones.
+No es perfecto, pero es el único que funciona con datos reales.
+
+
 ---
 
 ## 📂 Archivos del Repositorio
